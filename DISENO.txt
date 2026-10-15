@@ -1,0 +1,6 @@
+Referencia: video suministrado por el cliente.
+Portada y flores creadas con ImageGen para reproducir la composición de pergamino antiguo, flores marfil/champán y vestido dorado. Se retiró todo texto de la ilustración para mantener los datos editables en HTML.
+Prompt portada: portrait9:16 ivory antique torn parchment, ivory champagne floral corners, fairy-tale girl in gold ruffled gown rear view lower-left, blank upper center, no text.
+Prompt flores: transparent ivory magnolia cream lily pale peach and gold foliage corner arrangement.
+
+Portada v3: papiro floral cálido sin princesa, flores marfil y champán, filigrana tenue, centro vacío para texto editable. Generado con ImageGen. Regalo SVG propio en marfil y dorado.

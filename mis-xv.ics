@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//XV Kiara Chanel//ES
+BEGIN:VEVENT
+UID:kiara-chanel-20261113@digitalpro
+DTSTAMP:20261015T000000Z
+DTSTART:20261113T220000Z
+SUMMARY:XV años de Kiara Chanel
+LOCATION:Salón de eventos Las Vegas - Av. Ecológica
+URL:https://maps.app.goo.gl/E6fA9CD59qhUjZQ58
+END:VEVENT
+END:VCALENDAR
